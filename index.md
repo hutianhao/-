@@ -1,6 +1,6 @@
 ## 常用学习链接
 
-机器学习笔记：https://github.com/apachecn/MachineLearning
+[机器学习笔记](https://github.com/apachecn/MachineLearning)
 
 java注解：<br/>
 https://www.cnblogs.com/lyy-2016/p/6288535.html<br/>
