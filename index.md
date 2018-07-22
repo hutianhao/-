@@ -2,7 +2,9 @@
 
 机器学习笔记：https://github.com/apachecn/MachineLearning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+java注解：
+https://www.cnblogs.com/lyy-2016/p/6288535.html
+https://blog.csdn.net/briblue/article/details/73824058/
 
 ### Markdown
 
@@ -30,7 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hutianhao/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the 
+layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hutianhao/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
