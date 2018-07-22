@@ -2,6 +2,8 @@
 
 [机器学习笔记](https://github.com/apachecn/MachineLearning)
 
+[莫凡机器学习视频](https://morvanzhou.github.io/)
+
 java注解：<br/>
 https://www.cnblogs.com/lyy-2016/p/6288535.html<br/>
 https://blog.csdn.net/briblue/article/details/73824058/
