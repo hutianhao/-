@@ -15,15 +15,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题1
+## 标题2
+### 标题3
 
-- Bulleted
-- List
+- 目录
+- 列表
 
-1. Numbered
-2. List
+1. 数字
+2. 列表
 
 **Bold** and _Italic_ and `Code` text
 
