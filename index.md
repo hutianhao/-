@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 常用学习链接
 
-You can use the [editor on GitHub](https://github.com/hutianhao/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+机器学习笔记：https://github.com/apachecn/MachineLearning
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
