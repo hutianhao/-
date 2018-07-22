@@ -3,7 +3,7 @@
 机器学习笔记：https://github.com/apachecn/MachineLearning
 
 java注解：
-https://www.cnblogs.com/lyy-2016/p/6288535.html
+https://www.cnblogs.com/lyy-2016/p/6288535.html<br/>
 https://blog.csdn.net/briblue/article/details/73824058/
 
 ### Markdown
