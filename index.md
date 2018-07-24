@@ -8,16 +8,15 @@ java注解：<br/>
 https://www.cnblogs.com/lyy-2016/p/6288535.html<br/>
 https://blog.csdn.net/briblue/article/details/73824058/
 
-### Markdown
+### RNN(循环神经网络 Recurrent Neural Network)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 什么是LSTM RNN （Long Short-Term memory）
+1. 梯度弥散：
 
-```markdown
-Syntax highlighted code block
+2. 梯度爆炸：
 
-# 标题1
-## 标题2
-### 标题3
+
+
 
 - 目录
 - 列表
